@@ -1,4 +1,4 @@
-#  ⬛ KAI - Kernel with AI
+#  🐧 KAI - Kernel with AI
 
 ## 🌟 Project Overview
 
@@ -81,7 +81,7 @@ The script includes multiple safety features:
 - `bash`
 - `jq`
 - `curl`
-- Groq API
+- GROQ API KEY
 
 ## 🤝 Contributing
 
@@ -91,11 +91,7 @@ The script includes multiple safety features:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 🌈 Disclaimer
+## ⚠️ Disclaimer
 
 This tool is designed to assist and enhance command-line productivity. Always review commands before execution and understand their potential impact.
 
