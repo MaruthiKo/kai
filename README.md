@@ -99,8 +99,5 @@ This tool is designed to assist and enhance command-line productivity. Always re
 
 ### 🌟 Star the Repo if You Find it Useful!
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/aicommand?style=social" alt="GitHub stars">
-</p>
 
 **Happy Commanding! 🚀👨‍💻👩‍💻**
